@@ -1,4 +1,3 @@
-# What is iLotterybot² about?
 A bot that tracks messages from Twitch users as anonymous. Differences from the first version of the bot:
 + The bot collects messages with the user's public data *(username, display name, id)* and the channel where it was sent.
 + Saving all changes with user, like as changed user color, display name, etc.
