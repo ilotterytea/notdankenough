@@ -14,3 +14,5 @@
   
 </div>
 <!--| !img | Sends a link to a random image. Unlike the $tl command from supibot, this command captures links to i.nuuls.com, skr.sh, etc. | - | 2.5 sec. | False | -->
+
+*Last updated: March 28, 2022 11:02 PM (GMT+6)*
