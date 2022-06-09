@@ -16,4 +16,4 @@
 -c:`Twitch Username`: Get data from the specified channel.
 -->
 
-*Last updated: May 28, 2022 02:30 PM (GMT+6)*
+*Last updated: June 9, 2022 09:53 PM (GMT+6)*
